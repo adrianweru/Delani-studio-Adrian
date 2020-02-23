@@ -68,3 +68,9 @@ form input, form textarea{
   color: white;
   padding: 7px;
 }
+.message {
+  padding: 4px 14px;
+  margin: 7px 2px;
+  width:720px;
+  max width: 90%;
+}

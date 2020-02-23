@@ -22,9 +22,10 @@
   text-align: center;
 }
 .A,.B,.C,.D,.E,.F,.G,.H {
-  width: 154px;
+  width: 153px;
   margin: 5px;
-  height: 154px;
+  height: 153px;
+  text-align: center;
 }
 .A {
   background-image:url(../img/portfolio/work1.jpg);
@@ -77,4 +78,9 @@ form input, form textarea{
 form textarea{
   margin-top: 20px;
   width: 96%;
+}
+#sec-5{
+  background-image: url(../img/c_image.jpg);
+  background-size: cover;
+  padding-bottom: 300px;
 }

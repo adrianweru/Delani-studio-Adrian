@@ -21,3 +21,24 @@
 .p3 {
   text-align: center;
 }
+.A,.B,.C,.D,.E,.F,.G,.H {
+  width: 150px;
+  margin: 5.5px;
+  height: 150px;
+}
+.A {
+  background-image:url(../img/portfolio/work1.jpg);
+  background-size: cover;
+}
+.B {
+  background-image:url(../img/portfolio/work2.jpg);
+  background-size: cover;
+}
+.C {
+  background-image:url(../img/portfolio/work3.jpg);
+  background-size: cover;
+}
+.D {
+  background-image:url(../img/portfolio/work4.jpg);
+  background-size: cover;
+}

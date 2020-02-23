@@ -2,7 +2,7 @@
   text-align: center;
   background-image: url(../img/h_img.jpg);
   padding-bottom: 300px;
-  padding-top: 200px;
+  padding-top: 550px;
   background-size: cover;
   color: white;
   background-repeat: no-repeat;
@@ -15,4 +15,9 @@
   text-align: center;
   background-image: url(..//img/s_image.jpg);
   color: white;
+  padding-bottom: 40px;
+  padding-top: 60px;
+}
+.p3 {
+  text-align: center;
 }

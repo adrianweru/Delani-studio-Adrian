@@ -62,3 +62,9 @@ form{
   width: 700px;
   max-width: 90%;
 }
+form input, form textarea{
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 7px;
+}

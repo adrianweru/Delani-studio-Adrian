@@ -22,9 +22,12 @@
   text-align: center;
 }
 .A,.B,.C,.D,.E,.F,.G,.H {
-  width: 150px;
-  margin: 5.5px;
-  height: 150px;
+  width: 154px;
+  margin: 5px;
+  height: 154px;
+}
+.image5 {
+  background-image: url(..//img/social_icons/c_image.jpg);
 }
 .A {
   background-image:url(../img/portfolio/work1.jpg);

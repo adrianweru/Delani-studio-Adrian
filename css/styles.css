@@ -1,0 +1,13 @@
+.p {
+  text-align: center;
+  background-image: url(../img/h_img.jpg);
+  padding-bottom: 300px;
+  padding-top: 200px;
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+}
+
+.p1 {
+  text-align: center;
+}

@@ -3,4 +3,12 @@ $(document).ready(function(){
     $(".design-hidden").toggle();
     $(".design-showing").toggle();
   });
+  $(".click").click(function(){
+    $(".dev-hidden").toggle();
+    $(".Dev-showing").toggle();
+  });
+  $(".clik").click(function(){
+    $(".product-hidden").toggle();
+    $(".prod-showing").toggle();
+  });
 });

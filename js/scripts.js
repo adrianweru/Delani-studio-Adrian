@@ -44,7 +44,7 @@ $(document).ready(function(){
     var message=document.getElementById("message").value;
 
     if(name=== ""){
-      alert("Please enter your details")
+      alert("Please enter your name")
     }
     else if(message===""){
       alert("please enter your message");

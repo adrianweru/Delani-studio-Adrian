@@ -38,7 +38,7 @@ $(document).ready(function(){
     $(".name8").slideToggle();
   });
 
-  $("form").submit(function(){
+  $("#button").click(function(){
     var name=document.getElementById("name").value;
     var email=document.getElementById("email").value;
     var message=document.getElementById("message").value;
